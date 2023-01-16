@@ -32,7 +32,7 @@
 import config from '@/config';
 
 export default {
-  name: 'Error',
+  name: 'CobaError',
   data(){
     return{
       config

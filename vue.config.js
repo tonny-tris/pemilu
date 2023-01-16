@@ -1,8 +1,9 @@
 module.exports = {
     devServer: {
-        https: true,
-        host: 'integrator.bondowosokab.go.id',
-        // host: '192.168.8.111',
+        // https: true,
+        // host: 'integrator.bondowosokab.go.id',
+        host: '172.18.2.218',
+        // host: 'localhost',
         port: 8080,
         // proxy: {
         // '^/api/': {
