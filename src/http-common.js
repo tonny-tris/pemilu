@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export default axios.create({
-    baseURL: "http://103.161.108.4:5500/api",
+    baseURL: "http://103.161.108.4:3630/api",
     // baseURL: "http://localhost:5500/api", //development
     // baseURL: '', //production
     // baseURL: "http://integrator.bondowosokab.go.id:5500/api",
